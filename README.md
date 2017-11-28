@@ -8,6 +8,7 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
  -- Corregir sistema de judge.
  
  -- completar sistema de desbloqueo.
+ 
  -- corregir sistema de save/load.
  
  -- comenzar modo historia.
