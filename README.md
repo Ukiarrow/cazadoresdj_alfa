@@ -12,3 +12,8 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
  ** completar sistema de misiones.
  
  (*) orden de prioridad.
+
+28/11/17
+- Detalles al guardar los records y mostrarlos -solucionado-.
+- Judge corregido de perf-bien-mal a perf-mal (Aun no se implementa "bien" correctamente).
+- Detalles al guardar puntajes y canciones -solucionado-.
