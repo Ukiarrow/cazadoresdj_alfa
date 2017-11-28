@@ -6,9 +6,12 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
  - Vinculas escenas de gameplay-seleccion_cancion-resulado con su respectiva dificultad y chart.
  
  -- Corregir sistema de judge.
+ 
  -- completar sistema de desbloqueo.
  -- corregir sistema de save/load.
+ 
  -- comenzar modo historia.
+ 
  -- completar sistema de misiones.
  
 28/11/17
@@ -19,4 +22,5 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
 - sistema de misiones -mejorado-.
 
 -- Agregar charts faltantes.
+
 -- Agrear modo historia.
