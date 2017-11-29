@@ -21,6 +21,7 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
 - Detalles al guardar puntajes y canciones -solucionado-.
 - Detalles sistema de desbloqueo -mejorado-.
 - sistema de misiones -mejorado-.
+- Chart 0011 -agregado- (disponibles para jugar 0001,0002,0011).
 
 -- Agregar charts faltantes.
 
