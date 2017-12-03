@@ -25,4 +25,7 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
 
 -- Agregar charts faltantes.
 
--- Agrear modo historia.
+-- Agregar modo historia.
+
+03/12/2017
+- chart 0012 -agregado-
