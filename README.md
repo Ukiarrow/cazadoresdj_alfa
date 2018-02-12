@@ -29,3 +29,7 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
 
 03/12/2017
 - chart 0012 -agregado-
+
+11/02/2018
+- Retomando documentación
+- Se agregaron videos que reemplazarán a los fondos de pantalla en algunas escenas (no son definitivos).
