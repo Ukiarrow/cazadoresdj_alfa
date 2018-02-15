@@ -33,3 +33,6 @@ proyecto de gamemaker studio en proceso de mudanza a unity.
 11/02/2018
 - Retomando documentación
 - Se agregaron videos que reemplazarán a los fondos de pantalla en algunas escenas (no son definitivos).
+
+****************************************************************************************************************************
+NOTA MENTAL: Cada vez que testees el programa debes hacerlo desde el escenario menu1, soluciona el problema de la lista fuera de rango.
